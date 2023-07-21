@@ -1,6 +1,8 @@
-# Experiment Folder - README
+# Experiment Folder
 
-Welcome to the experiment folder conducted by Vilma Helander and Hampus Ekedahl!
+[[Paper]]([https://arxiv.org/abs/2212.04356](https://mdh.diva-portal.org/smash/get/diva2:1776700/FULLTEXT01.pdf))
+
+Welcome to the experiment folder conducted by Vilma Helander and Hampus Ekedahl.
 
 ## Dataset
 The dataset used in this experiment was sampled from LeetCode, a popular platform for practicing coding interview questions. LeetCode offers a wide range of algorithmic problems that are commonly asked during technical interviews.

@@ -1,6 +1,7 @@
 # Experiment Folder
 
-[[Paper]]([https://arxiv.org/abs/2212.04356](https://mdh.diva-portal.org/smash/get/diva2:1776700/FULLTEXT01.pdf))
+
+[[Here you can find the paper]](https://mdh.diva-portal.org/smash/get/diva2:1776700/FULLTEXT01.pdf) (if applicable).
 
 Welcome to the experiment folder conducted by Vilma Helander and Hampus Ekedahl.
 
